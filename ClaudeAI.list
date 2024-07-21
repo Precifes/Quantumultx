@@ -1,0 +1,21 @@
+# NAME: ClaudeAI
+# AUTHOR: [prec1fes]
+# REPO: [https://github.com/Precifes/Quantumultx]
+# UPDATED: 2024-07-22
+# HOST: 4
+# HOST-KEYWORD: 2
+# HOST-SUFFIX: 7
+# TOTAL: 13
+HOST,www.anthropic.com,ClaudeAI
+HOST,api.anthropic.com,ClaudeAI
+HOST,chat.anthropic.com,ClaudeAI
+HOST,claude.ai,ClaudeAI
+HOST-SUFFIX,anthropic.com,ClaudeAI
+HOST-SUFFIX,claude.ai,ClaudeAI
+HOST-SUFFIX,anthropic-ai.com,ClaudeAI
+HOST-SUFFIX,claudeai.ai,ClaudeAI
+HOST-SUFFIX,anthropicai.com,ClaudeAI
+HOST-SUFFIX,anthropic-ai.net,ClaudeAI
+HOST-SUFFIX,anthropic.ai,ClaudeAI
+HOST-KEYWORD,claude,ClaudeAI
+HOST-KEYWORD,anthropic,ClaudeAI
